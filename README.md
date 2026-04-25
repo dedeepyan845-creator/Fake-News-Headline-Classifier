@@ -1,4 +1,4 @@
-# Fake News Detector
+# Fake News Headline Classifier
 Fake News Detector is a machine learning based web application that analyzes news headlines or statements and predicts whether they are real or fake using Natural Language Processing (NLP) techniques.
 
 ## Features
